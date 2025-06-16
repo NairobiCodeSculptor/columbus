@@ -22,6 +22,7 @@
   "homepage": "https://github.com/NairobiCodeSculptor/columbus#readme",
   "description": "",
   "dependencies": {
+    "ejs": "^3.1.10",
     "express": "^5.1.0"
   }
 }
